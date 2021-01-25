@@ -6,6 +6,7 @@ I’m a developer who loves development, has a great interest in research, and d
 - 🔭 Working as an iOS developer at a **Kakao Corp**. in S.Korea
 - 🎓 Graduated from Soongsil Univ. Dep't of Computer Science
 - 📫 Email : della.kimko@gmail.com
+- 📡 Blog : https://terry-some.tistory.com/
 - 🎥 YouTube Channel : https://www.youtube.com/channel/UC7W2lBYHzGYlIZogDNbwUxA
 
 ### Technical Stacks
