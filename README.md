@@ -4,8 +4,7 @@ I’m a developer who loves development, has a great interest in research, and d
 ### I am
 - 🏠 Currently living in **Seoul, South Korea**
 - 🔭 Working as an iOS Software Engineer at a **Kakao Corp**. in S.Korea
-- 🎓 **Bachelor's degree** of Soongsil University Computer Science
-- 🎓 Preparing for Gratudate School of Seoul National University
+- 🎓 **Bachelor's degree** of Soongsil University Computer Science  
 - 📫 Email : della.kimko@gmail.com
 - 📡 Blog : https://terry-some.tistory.com/
 - 🎥 YouTube Channel : https://www.youtube.com/channel/UC7W2lBYHzGYlIZogDNbwUxA
