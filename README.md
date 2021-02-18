@@ -4,6 +4,7 @@ I’m a developer who loves development, has a great interest in research, and d
 ### I am
 - 🏠 Currently living in **Seoul, South Korea**
 - 🔭 Working as an iOS Software Engineer at a **Kakao Corp**. in S.Korea
+- 💬 Language : Korean, English
 - 🎓 **Bachelor's degree** at Soongsil University Computer Science  
 - 📫 Email : della.kimko@gmail.com
 - 📡 Blog : https://terry-some.tistory.com/
