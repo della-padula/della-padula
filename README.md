@@ -2,8 +2,8 @@
 I’m a developer who loves development, has a great interest in research, and dreams of growth. The main technology stack is iOS, but I’m interested in a variety of developments. I am interested in security and servers, and I am a person who constantly strives to have expertise in any field because I want to end up in one field.  
 
 ### I am
-- 🏠 Currently living in **Seoul, South Korea**
-- 🔭 Working as an iOS Software Engineer at a **Kakao Corp**. in S.Korea
+- 🏠 Currently living in **Seoul / Korea, Republic of**
+- 🔭 Working as an iOS Software Engineer at a **Kakao Corp**.
 - 💬 Language : Korean, English
 - 🎓 **Bachelor's degree** at Soongsil University Computer Science  
 - 📫 Email : della.kimko@gmail.com
