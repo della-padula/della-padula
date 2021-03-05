@@ -11,9 +11,9 @@ I’m a developer who loves development, has a great interest in research, and d
 - 🎥 YouTube Channel : https://www.youtube.com/channel/UC7W2lBYHzGYlIZogDNbwUxA
 
 ### Technical Stacks
-- iOS / WatchOS / macOS / tvOS : Swift, SwiftUI, Objective-C, C++
+- iOS / WatchOS / macOS / tvOS : Swift, SwiftUI, Objective-C++, Objective-C, C++
 - Android : Java, Kotlin
-- Data Engineering : Python, Ruby, Scala
+- Data Engineering : Python, Scala
 - System : C, C++
 
 ### Collaborate Skills
