@@ -10,6 +10,8 @@ I’m a developer who loves development, has a great interest in research, and d
 - 📡 Blog : https://terry-some.tistory.com/
 - 🎥 YouTube Channel : https://www.youtube.com/channel/UC7W2lBYHzGYlIZogDNbwUxA
 
+<p align="center"> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=Apple&logoColor=black"/></a> </p>
+
 ### Technical Stacks
 - iOS / WatchOS / macOS / tvOS : Swift, SwiftUI, Objective-C++, Objective-C, C++
 - Android : Java, Kotlin
@@ -23,6 +25,8 @@ I’m a developer who loves development, has a great interest in research, and d
 
 ### Open Source Library Distribution
 - [Elliotable - iOS Timetable](https://github.com/della-padula/Elliotable)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=della-padula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **della-padula/della-padula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
