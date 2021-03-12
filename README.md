@@ -16,7 +16,7 @@ I’m a developer who loves development, has a great interest in research, and d
 - iOS / WatchOS / macOS / tvOS : Swift, SwiftUI, Objective-C++, Objective-C, C++
 - Android : Java, Kotlin
 - Data Engineering : Python, Scala
-- System : C, C++
+- System(Linux) : C, C++
 
 ### Collaborate Skills
 - Design Collaboration : Zeplin, Figma
