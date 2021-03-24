@@ -18,6 +18,11 @@ I’m a developer who loves development, has a great interest in research, and d
 - Data Engineering : Python, Scala
 - System(Linux) : C, C++
 
+### Currently Interested In...  
+- Network Security
+- Cryptography
+- Server Development (Spring Framework)  
+
 ### Collaborate Skills
 - Design Collaboration : Zeplin, Figma
 - Develop Collaboration : GitHub, GitLab
