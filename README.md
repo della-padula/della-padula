@@ -15,11 +15,11 @@ I’m a developer who loves development, has a great interest in research, and d
 ### Technical Stacks
 - iOS / WatchOS / macOS / tvOS : Swift, SwiftUI, Objective-C++, Objective-C, C++
 - Android : Java, Kotlin
-- Data Engineering : Python, Scala
+- Data Engineering : Python
 - System(Linux) : C, C++
 
 ### Currently Interested In...  
-- Network Security
+- System Security, Network Security
 - Cryptography
 - Server Development (Spring Framework)  
 
