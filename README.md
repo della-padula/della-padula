@@ -3,7 +3,7 @@ I’m a developer who loves development, has a great interest in research, and d
 
 ### I am
 - 🏠 Currently living in **Seoul / Korea, Republic of**
-- 🔭 Working as an iOS Software Engineer @**Kakao Corp**.
+- 🔭 Working as an iOS Software Engineer @**Kakao Corp**. (2019.12 ~)
 - 💬 Language : Korean, English
 - 🎓 **Bachelor's degree** of Computer Science @Soongsil University
 - 📫 Email : della.kimko@gmail.com
@@ -20,13 +20,15 @@ I’m a developer who loves development, has a great interest in research, and d
 
 ### Currently Interested In...  
 - System Security, Network Security
-- Cryptography
-- Server Development (Spring Framework)  
+- Swift UI, Combine, Swift Concurrency, Swift Data
+- Tuist, TCA
+- Application Performance Improvement
+- System Architecture Design
 
 ### Collaborate Skills
-- Design Collaboration : Zeplin, Figma
-- Develop Collaboration : GitHub, GitLab
-- Issue Management : Jira
+- Design Collaboration : Figma
+- Develop Collaboration : GitHub
+- Issue Management : Jira, Confluence
 
 ### Open Source Library Distribution
 - [Elliotable - iOS Timetable](https://github.com/della-padula/Elliotable)
