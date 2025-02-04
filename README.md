@@ -4,7 +4,7 @@ I’m a developer who loves development, has a great interest in research, and d
 ### I am
 - 🏠 Currently living in **Seoul / Korea, Republic of**
 - 🔭 Working as an iOS Software Engineer @**Kakao Corp**. (2019.12 ~)
-- 💬 Language : Korean, English
+- 💬 Language : Korean, English, Japanese
 - 🎓 **Bachelor's degree** of Computer Science @Soongsil University
 - 📫 Email : della.kimko@gmail.com
 - 📡 Blog : https://terry-some.tistory.com/
@@ -13,6 +13,7 @@ I’m a developer who loves development, has a great interest in research, and d
 <p align="center"> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=Apple&logoColor=black"/></a> </p>
 
 ### Technical Stacks
+- Backend : Spring Boot, Java, Kotlin, MySQL 
 - iOS / WatchOS / macOS / tvOS : Swift, SwiftUI, Objective-C++, Objective-C, C++
 - Android : Java, Kotlin
 - Data Engineering : Python
@@ -26,8 +27,8 @@ I’m a developer who loves development, has a great interest in research, and d
 - System Architecture Design
 
 ### Collaborate Skills
-- Design Collaboration : Figma
-- Develop Collaboration : GitHub
+- Design Collaboration : Figma, Zeplin
+- Develop Collaboration : GitHub, GitLab
 - Issue Management : Jira, Confluence
 
 ### Open Source Library Distribution
